@@ -24,9 +24,9 @@ SQLite数据库，可使用SQLiteExpert等工具打开。
 
 
 ## 设置
-#### 界面主题
+#### 界面
 1. 或点击软件界面左上角图标切换
-2. 或通过 assistant_config.yml 配置皮肤
+2. 或通过 assistant.yml 配置皮肤
 
 #### 报名结果邮件通知
     enableMailReport: true
