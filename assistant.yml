@@ -1,0 +1,10 @@
+UISkin: 
+UITheme: org.jvnet.substance.theme.SubstanceBarbyPinkTheme
+UIWatermark: org.jvnet.substance.watermark.SubstanceBubblesWatermark
+UIButtonShaper: org.jvnet.substance.button.ClassicButtonShaper
+UIBorderPainter: org.jvnet.substance.border.ClassicBorderPainter
+UIGradientPainter: org.jvnet.substance.painter.ClassicGradientPainter
+enableMailReport: true
+fromEmailUser: aaa@gmail.com
+fromEmailPassword: xxxxx
+toEmailUser: bbb@qq.com
